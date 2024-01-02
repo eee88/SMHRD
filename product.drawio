@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T07:23:09.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0TvFTPEZrydLg7CUdFxg" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T07:37:54.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LYJaqP1KLoV05wPAMTwk" version="22.1.16" type="github">
   <diagram name="페이지-1" id="nq74OwpZg5SvRDUDiQA5">
     <mxGraphModel dx="2074" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -172,13 +172,13 @@
             <mxPoint x="225" y="-659" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXblO_jNl26xeSwkopg4-36" value="제품코드" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="DXblO_jNl26xeSwkopg4-36" value="&lt;font color=&quot;#ff0000&quot;&gt;제품코드&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="55" y="-779" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DXblO_jNl26xeSwkopg4-37" value="고객코드" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="DXblO_jNl26xeSwkopg4-37" value="&lt;font color=&quot;#ff0000&quot;&gt;고객코드&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-629" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DXblO_jNl26xeSwkopg4-38" value="지역코드" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="DXblO_jNl26xeSwkopg4-38" value="&lt;font color=&quot;#ff0000&quot;&gt;지역코드&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-329" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DXblO_jNl26xeSwkopg4-39" value="제품명" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -190,7 +190,7 @@
         <mxCell id="DXblO_jNl26xeSwkopg4-41" value="가격" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="285" y="-679" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DXblO_jNl26xeSwkopg4-42" value="제품색상" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DXblO_jNl26xeSwkopg4-42" value="&lt;font color=&quot;#ff0000&quot;&gt;제품색상&lt;/font&gt;" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="265" y="-759" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DXblO_jNl26xeSwkopg4-43" value="구매일자" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -211,7 +211,7 @@
         <mxCell id="DXblO_jNl26xeSwkopg4-48" value="지역" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-195" y="-819" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DXblO_jNl26xeSwkopg4-49" value="주소" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DXblO_jNl26xeSwkopg4-49" value="&lt;font color=&quot;#ff0000&quot;&gt;주소&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-300" y="-821" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DXblO_jNl26xeSwkopg4-50" value="이메일" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -225,6 +225,18 @@
         </mxCell>
         <mxCell id="DXblO_jNl26xeSwkopg4-53" value="지역명" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-329" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DXblO_jNl26xeSwkopg4-65" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-724" width="50" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="DXblO_jNl26xeSwkopg4-67" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-613" width="50" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="DXblO_jNl26xeSwkopg4-68" value="M" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="-729" width="50" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="DXblO_jNl26xeSwkopg4-69" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="-530" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
