@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T05:52:48.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Gr4bwbNu1WLCPx8Elaln" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T05:53:43.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oCfg9E-euzOviL2dAE3Y" version="22.1.16" type="github">
   <diagram name="페이지-1" id="VpFutrYBXAX4n4MylmDC">
-    <mxGraphModel dx="1051" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1276" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,6 +452,9 @@
         </mxCell>
         <mxCell id="cjotbzHaFE7JgMFKAddq-82" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px; background-color: rgb(0, 0, 0);&quot;&gt;논리적인 모델링_조은해&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="865" y="315" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjotbzHaFE7JgMFKAddq-83" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;ERD&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="124" y="325" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
